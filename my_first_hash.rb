@@ -18,7 +18,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-"oil painting "
+oil painting 
 end
 
 def adding
