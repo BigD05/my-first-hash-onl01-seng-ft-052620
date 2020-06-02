@@ -1,5 +1,5 @@
 def my_hash
-  person={"name"="kyle","surname"="Dornan"}
+  person={"name"=>"kyle","surname"=>"Dornan"}
 
   
 end
